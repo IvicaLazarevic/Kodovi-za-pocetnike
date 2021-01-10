@@ -44,7 +44,7 @@ while True:
     broj = random.randint(0, 10)
     pogodi = int(input('\nPogodi broj izmedju 0 i 10: '))
 
-    if pogodi is 99:
+    if pogodi == 99:
         exit('\nHvala vam sto ste igrali ovu igru!')
 
     if pogodi > 10 or pogodi < 0:
