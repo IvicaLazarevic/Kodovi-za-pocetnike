@@ -4,3 +4,4 @@
    - [Jednostavan kalkulator](kalkulator.py)
    - [Pogadjanje broja](pogadjanjeBroja.py)
    - [Igra Kamen, Papir, Makaze](KamenPapirMakaze.py)
+   - [Pogadjanje broja v.0.2](pogadjanjeBroja.v.0.2.py)
