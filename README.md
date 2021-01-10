@@ -5,3 +5,5 @@
    - [Pogadjanje broja](pogadjanjeBroja.py)
    - [Igra Kamen, Papir, Makaze](KamenPapirMakaze.py)
    - [Pogadjanje broja v.0.2](pogadjanjeBroja.v.0.2.py)
+   - [Uporedjivanje dva fajla pomocu SequenceMatcher](uporedjivanjeFajlova.py)
+   
