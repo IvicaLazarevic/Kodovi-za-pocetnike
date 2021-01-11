@@ -7,4 +7,5 @@
    - [Pogadjanje broja v.0.2](pogadjanjeBroja.v.0.2.py)
    - [Uporedjivanje dva fajla pomocu SequenceMatcher](uporedjivanjeFajlova.py)
    - [Simulacija igre na srecu Loto u Srbiji](lotoigra.py)
+   - [Random naslov filma sa IMDB TOP 250](randomFilmovi.py)
    
