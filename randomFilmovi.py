@@ -7,16 +7,15 @@ __site__ = 'pythonbytes.rs'
 
 import sys
 import random
-import requests
 
-from bs4 import BeautifulSoup
 from subprocess import call
 
-
 try:
+    import requests
+    from bs4 import BeautifulSoup
     from colorama import Fore
 except:
-    call('pip3 install colorama', shell=True)
+    call('pip3 install colorama requests bs4', shell=True)
     exit()
 
 
