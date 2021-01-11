@@ -1,5 +1,27 @@
 #!/usr/bin/env python3
 
+"""
+
+Simulacija Loto igre u Srbiji 7\39
+Skripta generiše random sedmicu
+Zatim random generiše odigrane listiće i simulira broj uplaćenih listića koji se kreće u rasponu od 450000 – 500000.
+Na osnovu broja uplaćenih listića računa se fond za dobitke. Uplata je 80 dinara po listiću.
+Na kraju skripta prikaže koliko je bilo pogodaka sa tri broja, četiri, pet, šest i sedam.
+Fond za dobitke je po sledećem principu:
+— tri broja = 80 dinara
+
+— četiri broja = 80 * 10 dinara
+
+— Od ukupnog fonda oduzima se dobitak za tri i četiri broja.
+
+— pet brojeva = novac iz fonda nakon odbitka za tri i četiri broja i od toga je fond 25%
+
+— šest brojeva = takođe 25%
+
+— sedmica = preostalih 50%
+
+"""
+
 __coder__ = 'Ivica Lazarevic'
 __scriptName__ = 'lotoigra.py'
 __version__ = '0.1'
