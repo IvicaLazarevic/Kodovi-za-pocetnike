@@ -6,4 +6,5 @@
    - [Igra Kamen, Papir, Makaze](KamenPapirMakaze.py)
    - [Pogadjanje broja v.0.2](pogadjanjeBroja.v.0.2.py)
    - [Uporedjivanje dva fajla pomocu SequenceMatcher](uporedjivanjeFajlova.py)
+   - [Simulacija igre na srecu Loto u Srbiji](lotoigra.py)
    
