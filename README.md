@@ -9,4 +9,5 @@
    - [Simulacija igre na srecu Loto u Srbiji](lotoigra.py)
    - [Random naslov filma sa IMDB TOP 250](randomFilmovi.py)
    - [Igra Kamen, Papir, Makaze v.0.2](KamenPapirMakaze.v.0.2.py)
+   - [Statistika za korona virus](koronaSlucajevi.py)
    
