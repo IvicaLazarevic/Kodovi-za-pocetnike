@@ -11,4 +11,5 @@
    - [Igra Kamen, Papir, Makaze v.0.2](KamenPapirMakaze.v.0.2.py)
    - [Statistika za korona virus](koronaSlucajevi.py)
    - [Skripta za slanje mejla](posaljiMejl.py)
+   - [Skripta za pogadjanje lozinke na .7z arhiviranom fajlu](7zKreker.py)
    
