@@ -11,5 +11,6 @@
    - [Igra Kamen, Papir, Makaze v.0.2](KamenPapirMakaze.v.0.2.py)
    - [Statistika za korona virus](koronaSlucajevi.py)
    - [Skripta za slanje mejla](posaljiMejl.py)
+   - [Kalkulator kalorija](kalkulatorKalorija.py)
    
    
