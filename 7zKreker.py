@@ -43,7 +43,7 @@ LOZINKE = input('[+] Molimo vas unesite ime fajla sa lozinkama: ')
 
 def krekovanje7z(lozinka):
     try:
-        SevenZipFile(FAJL, mode='r', password=lozinka)
+        SevenZipFile(FAJL, mode='r', password=lozinka).extractall()
         return lozinka
     except(KeyboardInterrupt):
         exit('[-] Izlazak iz skripte!')
