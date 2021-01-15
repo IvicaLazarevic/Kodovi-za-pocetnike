@@ -13,5 +13,6 @@
    - [Skripta za slanje mejla](posaljiMejl.py)
    - [Kalkulator kalorija](kalkulatorKalorija.py)
    - [Random naslov filma sa IMDB TOP 250 v.0.2](randomFilmovi.v.0.2.py)
+   - [Statistika za korona virus v.0.2](koronaSlucajevi.v.0.2.py)
    
    
