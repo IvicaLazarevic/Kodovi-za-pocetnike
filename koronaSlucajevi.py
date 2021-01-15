@@ -49,14 +49,14 @@ def globalno():
 
 def srbija():
     SRBIJA = COVID_STATISTIKA['Countries']
-    SRB = SRBIJA[151]['Country']
-    print(f'\n[+] Statistika za drzavu {SRB} na datum {SRBIJA[151]["Date"]}')
-    print(f'\n[+] Prijavljeni novi slucajevi: {SRBIJA[151]["NewConfirmed"]}')
-    print(f'[+] Ukupno prijavljeno slucajeva: {SRBIJA[151]["TotalConfirmed"]}')
-    print(f'[+] Prijavljeni novi slucajevi sa smrtnim ishodom: {SRBIJA[151]["NewDeaths"]}')
-    print(f'[+] Ukupno prijavljeno smrtnih slucajeva: {SRBIJA[151]["TotalDeaths"]}')
-    print(f'[+] Prijavljen broj novih pacijenata koji su se oporavili: {SRBIJA[151]["NewRecovered"]}')
-    print(f'[+] Ukupno prijavljeno pacijenata koji su se oporavili: {SRBIJA[151]["TotalRecovered"]}')
+    SRB = SRBIJA[148]['Country']
+    print(f'\n[+] Statistika za drzavu {SRB} na datum {SRBIJA[148]["Date"]}')
+    print(f'\n[+] Prijavljeni novi slucajevi: {SRBIJA[148]["NewConfirmed"]}')
+    print(f'[+] Ukupno prijavljeno slucajeva: {SRBIJA[148]["TotalConfirmed"]}')
+    print(f'[+] Prijavljeni novi slucajevi sa smrtnim ishodom: {SRBIJA[148]["NewDeaths"]}')
+    print(f'[+] Ukupno prijavljeno smrtnih slucajeva: {SRBIJA[148]["TotalDeaths"]}')
+    print(f'[+] Prijavljen broj novih pacijenata koji su se oporavili: {SRBIJA[148]["NewRecovered"]}')
+    print(f'[+] Ukupno prijavljeno pacijenata koji su se oporavili: {SRBIJA[148]["TotalRecovered"]}')
 
 def BiH():
     BiH = COVID_STATISTIKA['Countries']
@@ -71,36 +71,36 @@ def BiH():
 
 def hrvatska():
     HRVATSKA = COVID_STATISTIKA['Countries']
-    CRO = HRVATSKA[41]['Country']
-    print(f'\n[+] Statistika za drzavu {CRO} na datum {HRVATSKA[41]["Date"]}')
-    print(f'\n[+] Prijavljeni novi slucajevi: {HRVATSKA[41]["NewConfirmed"]}')
-    print(f'[+] Ukupno prijavljeno slucajeva: {HRVATSKA[41]["TotalConfirmed"]}')
-    print(f'[+] Prijavljeni novi slucajevi sa smrtnim ishodom: {HRVATSKA[41]["NewDeaths"]}')
-    print(f'[+] Ukupno prijavljeno smrtnih slucajeva: {HRVATSKA[41]["TotalDeaths"]}')
-    print(f'[+] Prijavljen broj novih pacijenata koji su se oporavili: {HRVATSKA[41]["NewRecovered"]}')
-    print(f'[+] Ukupno prijavljeno pacijenata koji su se oporavili: {HRVATSKA[41]["TotalRecovered"]}')
+    CRO = HRVATSKA[40]['Country']
+    print(f'\n[+] Statistika za drzavu {CRO} na datum {HRVATSKA[40]["Date"]}')
+    print(f'\n[+] Prijavljeni novi slucajevi: {HRVATSKA[40]["NewConfirmed"]}')
+    print(f'[+] Ukupno prijavljeno slucajeva: {HRVATSKA[40]["TotalConfirmed"]}')
+    print(f'[+] Prijavljeni novi slucajevi sa smrtnim ishodom: {HRVATSKA[40]["NewDeaths"]}')
+    print(f'[+] Ukupno prijavljeno smrtnih slucajeva: {HRVATSKA[40]["TotalDeaths"]}')
+    print(f'[+] Prijavljen broj novih pacijenata koji su se oporavili: {HRVATSKA[40]["NewRecovered"]}')
+    print(f'[+] Ukupno prijavljeno pacijenata koji su se oporavili: {HRVATSKA[40]["TotalRecovered"]}')
 
 def crnagora():
     CRNA_GORA = COVID_STATISTIKA['Countries']
-    CG = CRNA_GORA[115]['Country']
-    print(f'\n[+] Statistika za drzavu {CG} na datum {CRNA_GORA[115]["Date"]}')
-    print(f'\n[+] Prijavljeni novi slucajevi: {CRNA_GORA[115]["NewConfirmed"]}')
-    print(f'[+] Ukupno prijavljeno slucajeva: {CRNA_GORA[115]["TotalConfirmed"]}')
-    print(f'[+] Prijavljeni novi slucajevi sa smrtnim ishodom: {CRNA_GORA[115]["NewDeaths"]}')
-    print(f'[+] Ukupno prijavljeno smrtnih slucajeva: {CRNA_GORA[115]["TotalDeaths"]}')
-    print(f'[+] Prijavljen broj novih pacijenata koji su se oporavili: {CRNA_GORA[115]["NewRecovered"]}')
-    print(f'[+] Ukupno prijavljeno pacijenata koji su se oporavili: {CRNA_GORA[115]["TotalRecovered"]}')
+    CG = CRNA_GORA[113]['Country']
+    print(f'\n[+] Statistika za drzavu {CG} na datum {CRNA_GORA[113]["Date"]}')
+    print(f'\n[+] Prijavljeni novi slucajevi: {CRNA_GORA[113]["NewConfirmed"]}')
+    print(f'[+] Ukupno prijavljeno slucajeva: {CRNA_GORA[113]["TotalConfirmed"]}')
+    print(f'[+] Prijavljeni novi slucajevi sa smrtnim ishodom: {CRNA_GORA[113]["NewDeaths"]}')
+    print(f'[+] Ukupno prijavljeno smrtnih slucajeva: {CRNA_GORA[113]["TotalDeaths"]}')
+    print(f'[+] Prijavljen broj novih pacijenata koji su se oporavili: {CRNA_GORA[113]["NewRecovered"]}')
+    print(f'[+] Ukupno prijavljeno pacijenata koji su se oporavili: {CRNA_GORA[113]["TotalRecovered"]}')
 
 def makedonija():
     MAKEDONIJA = COVID_STATISTIKA['Countries']
-    MK = MAKEDONIJA[101]['Country']
-    print(f'\n[+] Statistika za drzavu {MK} na datum {MAKEDONIJA[101]["Date"]}')
-    print(f'\n[+] Prijavljeni novi slucajevi: {MAKEDONIJA[101]["NewConfirmed"]}')
-    print(f'[+] Ukupno prijavljeno slucajeva: {MAKEDONIJA[101]["TotalConfirmed"]}')
-    print(f'[+] Prijavljeni novi slucajevi sa smrtnim ishodom: {MAKEDONIJA[101]["NewDeaths"]}')
-    print(f'[+] Ukupno prijavljeno smrtnih slucajeva: {MAKEDONIJA[101]["TotalDeaths"]}')
-    print(f'[+] Prijavljen broj novih pacijenata koji su se oporavili: {MAKEDONIJA[101]["NewRecovered"]}')
-    print(f'[+] Ukupno prijavljeno pacijenata koji su se oporavili: {MAKEDONIJA[101]["TotalRecovered"]}')
+    MK = MAKEDONIJA[99]['Country']
+    print(f'\n[+] Statistika za drzavu {MK} na datum {MAKEDONIJA[99]["Date"]}')
+    print(f'\n[+] Prijavljeni novi slucajevi: {MAKEDONIJA[99]["NewConfirmed"]}')
+    print(f'[+] Ukupno prijavljeno slucajeva: {MAKEDONIJA[99]["TotalConfirmed"]}')
+    print(f'[+] Prijavljeni novi slucajevi sa smrtnim ishodom: {MAKEDONIJA[99]["NewDeaths"]}')
+    print(f'[+] Ukupno prijavljeno smrtnih slucajeva: {MAKEDONIJA[99]["TotalDeaths"]}')
+    print(f'[+] Prijavljen broj novih pacijenata koji su se oporavili: {MAKEDONIJA[99]["NewRecovered"]}')
+    print(f'[+] Ukupno prijavljeno pacijenata koji su se oporavili: {MAKEDONIJA[99]["TotalRecovered"]}')
 
 if __name__ == "__main__":
     globalno()
@@ -109,4 +109,3 @@ if __name__ == "__main__":
     hrvatska()
     crnagora()
     makedonija()
-
