@@ -16,3 +16,4 @@
    - [Statistika za korona virus v.0.2](koronaSlucajevi.v.0.2.py)
    - [Provera da li je prestupna godina](prestupnaGodina.py)
    - [Glasovno citanje PDF fajla](citanjePDF.py)
+   - [Provera da li je prestupna godina v.0.2](prestupnaGodina.v.0.2.py)
