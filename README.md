@@ -18,3 +18,4 @@
    - [Glasovno citanje PDF fajla](citanjePDF.py)
    - [Provera da li je prestupna godina v.0.2](prestupnaGodina.v.0.2.py)
    - [Spisak zemalja za koje ne treba viza nosiocima pasosa Srbije](pasosSrbijeVisaFree.py)
+   - [Jednostavan Scraping Google Maps (Selenium)](googleMapsScraping.py)
