@@ -38,7 +38,7 @@ else:
 
 MESTO = input('\n[+] Unesite naziv mesta: ')
 
-API_KLJUC = '72e3282487104dde2ab3a919942ac41f' # Unesite vas API KEY
+API_KLJUC = 'OVDE VAS API KEY OD OPEN WEATHER MAP' # Unesite vas API KEY
 URL = f'http://api.openweathermap.org/data/2.5/weather?q={MESTO}&lang=sr&units=metric&appid={API_KLJUC}'
 
 ODGOVOR = request.urlopen(URL)
