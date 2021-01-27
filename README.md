@@ -20,3 +20,4 @@
    - [Spisak zemalja za koje ne treba viza nosiocima pasosa Srbije](pasosSrbijeVisaFree.py)
    - [Jednostavan Scraping Google Maps (Selenium)](googleMapsScraping.py)
    - [IP Informacije](ipInformacije.py)
+   - [Vremenska prognoza](vremenskaPrognoza.py)
