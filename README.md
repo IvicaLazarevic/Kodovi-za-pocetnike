@@ -21,3 +21,4 @@
    - [Jednostavan Scraping Google Maps (Selenium)](googleMapsScraping.py)
    - [IP Informacije](ipInformacije.py)
    - [Vremenska prognoza](vremenskaPrognoza.py)
+   - [Baci kockice](baciKockice.py)
