@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 __coder__ = 'Ivica Lazarevic'
-__scriptName__ = 'randowmWikipedia.py'
+__scriptName__ = 'randomWikipedia.py'
 __version__ = '0.1'
 __site__ = 'pythonbytes.rs'
 
