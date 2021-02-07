@@ -22,4 +22,4 @@
    - [IP Informacije](ipInformacije.py)
    - [Vremenska prognoza](vremenskaPrognoza.py)
    - [Baci kockice](baciKockice.py)
-   - [Randow Wikipedia](randowWikipedia.py)
+   - [Random Wikipedia](randomWikipedia.py)
