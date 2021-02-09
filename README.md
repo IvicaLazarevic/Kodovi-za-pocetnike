@@ -23,3 +23,5 @@
    - [Vremenska prognoza](vremenskaPrognoza.py)
    - [Baci kockice](baciKockice.py)
    - [Random Wikipedia](randomWikipedia.py)
+   - [Vesti Yahoo finansije](yahooFinansije.py)
+   - [Vesti Yahoo finansije v.0.2](yahooFinansije.v.0.2.py)
