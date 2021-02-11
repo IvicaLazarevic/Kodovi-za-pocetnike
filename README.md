@@ -27,3 +27,4 @@
    - [Vesti Yahoo finansije v.0.2](yahooFinansije.v.0.2.py)
    - [Scrap portland.craigslist.org](portlandCraigslist.py)
    - [Scrap portland.craigslist.org v.0.2](portlandCraigslist.v.0.2.py)
+   - [Scrap Nacionalna sluzba za zaposljavanje](nacionalnaSluzba.py)
